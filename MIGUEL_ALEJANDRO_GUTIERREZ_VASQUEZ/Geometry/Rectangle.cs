@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Geometry
 {
-    class Rectangle
+    class Rectangle :Ishape
     {
         public double Length { get; set; } //internal private variable, getter, setter
 

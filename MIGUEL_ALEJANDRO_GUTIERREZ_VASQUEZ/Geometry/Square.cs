@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Geometry
 {
-    class Square
+    class Square: Rectangle
     {
         public Square(double length) : base(length, length)
         {

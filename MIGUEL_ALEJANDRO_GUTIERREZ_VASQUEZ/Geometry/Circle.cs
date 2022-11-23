@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Geometry
 {
-    class Circle
+    class Circle: Ishape
     {
         public double Radius { get; set; }
 
